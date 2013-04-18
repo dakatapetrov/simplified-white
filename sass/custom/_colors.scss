@@ -28,7 +28,7 @@ $subtitle-color: darken($header-bg, 58);
 $nav-bg: #fff;
 $nav-bg-front: #fff;
 $nav-bg-back: #fff;
-$nav-color: darken($nav-bg, 70) !default;
+$nav-color: #000;
 $nav-color-hover: #268bd2;
 $nav-border: darken($nav-bg, 20) !default;
 $nav-border-top: darken($nav-bg, 5) !default;
@@ -39,8 +39,7 @@ $nav-border-right: lighten($nav-bg, 7) !default;
 // Change the sidebar colors
 $sidebar-bg: #fff;
 $sidebar-color: darken($sidebar-bg, 48) !default;
-$sidebar-color-hover: darken($sidebar-color, 10) !default;
-$sidebar-link-color: darken($sidebar-bg, 48) !default;
+$sidebar-link-color: darken($sidebar-color, 20) !default;
 $sidebar-link-color-hover: #268bd2;
 
 // Change the footer colors
